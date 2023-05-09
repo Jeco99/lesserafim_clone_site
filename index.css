@@ -1,0 +1,22 @@
+.greetings{
+    font-size: 3em;
+}
+
+.intro{
+    font-size: 4em;
+}
+
+.name{
+    font-size: 70px;
+}
+
+.main-content{
+    margin:20px;
+    padding: 15% 0px 21%;
+}
+
+.proj-content{
+    text-indent: 2%;
+    text-justify: inter-word;
+    text-align: justify;
+}
