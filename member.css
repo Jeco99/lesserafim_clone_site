@@ -1,0 +1,17 @@
+#gName
+{
+    width: 25px;
+    transform: rotate(90deg);
+}
+
+#gMName
+{
+    width: 25px;
+    transform: rotate(-90deg);
+}
+
+#name{
+    font-size: 5rem;
+    font-weight: 900;
+    color: red;
+}
